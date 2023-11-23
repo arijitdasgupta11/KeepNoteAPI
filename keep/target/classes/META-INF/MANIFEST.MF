@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: keepnote
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Arijit
+Implementation-Vendor-Id: com.note
+Build-Jdk: 1.8.0_351
+Implementation-URL: https://spring.io/projects/spring-boot/keep
+Created-By: Maven Integration for Eclipse
+
